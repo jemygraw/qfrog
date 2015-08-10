@@ -11,7 +11,7 @@
 
 设置AK & SK
 
-![set-ak-sk.png](snapshot/set-ak-sk.png]
+![set-ak-sk.png](snapshot/set-ak-sk.png)
 
 上传文件
 
