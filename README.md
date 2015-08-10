@@ -11,10 +11,10 @@
 
 设置AK & SK
 
-![set-ak-sk.png](set-ak-sk.png]
+![set-ak-sk.png](snapshot/set-ak-sk.png]
 
 上传文件
 
-![upload-file.png](upload-file.png)
+![upload-file.png](snapshot/upload-file.png)
 
 如果你有大量文件需要上传，另外也想用一个图形化工具，请使用[QSunSync](https://github.com/qiniu-lab/qsunsync) 。
